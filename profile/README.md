@@ -1,13 +1,13 @@
 # Welcome to Artais Security Labs 👋
 
-**Artais Security Labs** is a boutique cybersecurity consultancy specializing in:
+**Artais LLC** is a boutique cybersecurity consultancy specializing in:
 
 - 🛡️ Application Security
-- 🔍 Penetration Testing
+- 🔍 Penetration Testing & Red Teaming
 - 🧠 Threat Modeling & Secure SDLC
 - 🧪 Security Research & Open-Source Tooling
 
-We help engineering teams build and ship secure software by integrating security into every phase of the development lifecycle. Our team works closely with clients to uncover vulnerabilities, model threats, and elevate their security posture — without blocking delivery.
+Our mission is to proactively safeguard digital ecosystems through advanced offensive security measures. We specialize in simulating sophisticated cyber attacks to identify vulnerabilities, enhance defensive strategies, and ensure our clients can effectively withstand real-world threats. Our approach empowers businesses to stay ahead of attackers by continually testing and refining their security defenses.
 
 ---
 
