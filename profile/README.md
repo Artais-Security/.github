@@ -44,7 +44,7 @@ Have a security challenge? Need a pen test? Want to level up your SDLC security?
 
 - 🌍 Website: [artais.io](https://www.artais.io)
 - 🐘 Mastodon: [@artais@bsky.social](https://bsky.social/@artais)
-- 💼 LinkedIn: [company/artaisconsulting](https://www.linkedin.com/company/artaisconsulting)
+- 💼 LinkedIn: [artaisconsulting](https://www.linkedin.com/company/artaisconsulting)
 
 ---
 
