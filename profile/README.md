@@ -26,9 +26,6 @@ Our mission is to proactively safeguard digital ecosystems through advanced offe
 
 > Coming soon – open-source tools, frameworks, and playbooks from our labs.
 
-📌 In the meantime, check out our public [Research Backlog](https://github.com/Artais-Security/projects-and-research-backlog)  
-🧠 See our evolving [AI Governance Framework](https://github.com/Artais-Security/AI-Governance-Framework)
-
 ---
 
 ## 📢 Work With Us
@@ -36,7 +33,7 @@ Our mission is to proactively safeguard digital ecosystems through advanced offe
 Have a security challenge? Need a pen test? Want to level up your SDLC security?
 
 📬 Reach us at: [https://www.artais.io](https://www.artais.io)  
-📍 Based in Madison, WI — Serving clients across the U.S.
+📍 Based in Madison, WI — Serving clients across the Globe
 
 ---
 
