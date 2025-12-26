@@ -39,9 +39,9 @@ Have a security challenge? Need a pen test? Want to level up your SDLC security?
 
 ## 🌐 Connect With Us
 
-- 🌍 Website: [artais.io](https://www.artais.io)
-- 🐘 Bluesky: [@artais@bsky.social](https://bsky.app/profile/artais.bsky.social/)
-- 💼 LinkedIn: [artaisconsulting](https://www.linkedin.com/company/artaisconsulting)
+- Website: [artais.io](https://www.artais.io)
+- Bluesky: [@artais@bsky.social](https://bsky.app/profile/artais.bsky.social/)
+- LinkedIn: [artaisconsulting](https://www.linkedin.com/company/artaisconsulting)
 
 ---
 
