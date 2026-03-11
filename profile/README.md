@@ -22,12 +22,6 @@ Our mission is to proactively safeguard digital ecosystems through advanced offe
 
 ---
 
-## 🔬 Featured Projects & Research
-
-> Coming soon – open-source tools, frameworks, and playbooks from our labs.
-
----
-
 ## 📢 Work With Us
 
 Have a security challenge? Need a pen test? Want to level up your SDLC security?
